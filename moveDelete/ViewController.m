@@ -36,7 +36,11 @@ static NSString *headTwo = @"ColumnReusableViewTwo";
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< HEAD
     self.view.backgroundColor = [UIColor yellowColor];
+=======
+    self.view.backgroundColor = [UIColor whiteColor];
+>>>>>>> master
     
 
     
